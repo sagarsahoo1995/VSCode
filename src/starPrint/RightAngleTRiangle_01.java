@@ -32,4 +32,5 @@ public class RightAngleTRiangle_01 {
 		}
 
 	}
+	System.out.println("Sagar");
 }

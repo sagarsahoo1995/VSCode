@@ -5,3 +5,5 @@
    It provides total abstraction; means all the methods in an interface are declared with the empty body,
    and all the fields are public, static and final by default.
    A class that implements an interface must implement all the methods declared in the interface.   
+
+  4. 

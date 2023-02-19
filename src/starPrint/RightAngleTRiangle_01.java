@@ -18,7 +18,7 @@ public class RightAngleTRiangle_01 {
 
 			for (int j = n - i; j > 1; j--) {
 
-				System.out.print(" ");
+				System.out.print("  ");
 			}
 
 			// inner loop to handle Column

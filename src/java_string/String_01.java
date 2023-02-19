@@ -23,6 +23,7 @@ public class String_01 {
 
 		String_01 st = new String_01();
 		String_01.main(null);
+		System.out.println("Hello Dev");
 
 	}
 }

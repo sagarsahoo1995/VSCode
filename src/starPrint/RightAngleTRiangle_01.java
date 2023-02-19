@@ -30,7 +30,8 @@ public class RightAngleTRiangle_01 {
 // Jump to new line
 			System.out.println("");
 		}
+		System.out.println("Sagar");
 
 	}
-	System.out.println("Sagar");
+	
 }
